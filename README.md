@@ -85,7 +85,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="(https://www.linkedin.com/in/shijicp/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shijicp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
