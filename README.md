@@ -30,7 +30,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="SAS"/>
+  <img src="https://img.shields.io/badge/SAS-150458?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="SPSS"/>
  
 </p>
