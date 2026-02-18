@@ -37,11 +37,10 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### Data Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/>
+  </p>
 
 ### Tools & Platforms
 <p align="left">
