@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQG4nJzfJ27bcQ/profile-displayphoto-scale_200_200/B56ZpI_.4nKEAY-/0/1762161335482?e=1773273600&v=beta&t=gfNTP0C7HrxFEozI3aSmR817Ceyk9arp0cUTtBtY0aw" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm Shiji</h1>
 <h2 align="center">R&E Systems and Data Officer | Data Analysis | Power BI Dashboards @ University of Wolverhampton</h2>
 
 ---
