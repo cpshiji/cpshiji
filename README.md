@@ -39,7 +39,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <p align="left">
     <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/>
+  <img src="https://img.shields.io/badge/Matlab-11557C?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/>
   </p>
 
 ### Tools & Platforms
